@@ -1,0 +1,23 @@
+#div-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.comment{
+    background-color: aquamarine;
+    border: 2px solid darkorchid;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 10px;
+}
+#single-comment{
+    width: 25%;
+    margin: auto;
+}
+
+.singleComment{
+    background-color: sandybrown;
+    border: 2px solid fuchsia;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 10px;
+}
